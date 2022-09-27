@@ -25,7 +25,9 @@ If you too are trying to build something great, something that matters, let's ge
 - **2019** Completed the Bachelor's Program in the Kazan National Research Technical University named after A.N.Tupolev (Казанский национальный исследовательский технический университет имени А. Н. Туполева)  
 - **2019** Worked at Implant LLC. (Medical Devices)  
 - **2021 to present** Compliting the Master's Program in the Brno University of Technology (Vysoké učení technické v Brně)  
+
 -- --
+
 ### Education:
 
 - 2021-Current
@@ -35,6 +37,7 @@ If you too are trying to build something great, something that matters, let's ge
 :   **Bachelor , Jet Engines And Power Plants**; Kazan National Research Technical University named after A.N.Tupolev
 
 -- --
+
 ### Work Experience:
 
 - 2019-2022
@@ -49,15 +52,19 @@ If you too are trying to build something great, something that matters, let's ge
   sustainability and customer satisfaction.*  
 
 -- --
+
 ### Language skills:
 - **Mother tongues:** Ukrainian, Russian
 - **Other languages:** Czech(B2), English(B2)
+
 -- --
+
 ### Digital skills:
 - **Programming** Python, NodeJS, Bash, Git
 - **Analytics** IPython, SQL, Matlab, DataStudio
 - **Web/Media** React, Blender, Flask, HTML, CSS, JS
 - **Engineering** SolidWorks, AutoCad, Fusion360, Geomagic, ANSYS, NX
+
 -- --
 
 ### Code example:
